@@ -37,6 +37,10 @@ Here's a collection of tools to help you debug in Xcode
 
 - [LLDBInit](https://github.com/nthState/lldbinit) - extensions for Xcode
 
+Videos
+
+- [Youtube](https://www.youtube.com/channel/UCUe3_Lw8_B5e_Gse7a2KHdQ/videos) A collection of videos from projects
+
 You can find more projects on [GitHub](https://github.com/nthState), and on my portfolio [www.chrisdavis.com](http://www.chrisdavis.com)
 
 If you want to get in contact, send me a message.
