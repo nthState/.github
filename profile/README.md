@@ -20,6 +20,16 @@ I make a collection of modifiers for SwiftUI:
 - [Claymorphic Kit](https://github.com/nthState/ClaymorphicKit) A Claymorphic view style 
 - [Copy to Points](https://github.com/nthState/CopyToPoints) Idea from Houdini, copying Views to points
 
+I'm interested in Augmented Reality (AR):
+
+- [Climb Designer](https://www.youtube.com/watch?v=tRRNfKj1rfU) - Route Setting in AR
+- [jARws](https://apps.apple.com/us/app/jarws/id352431301?ls=1) - AR Version of that scene from Back to the Future
+- [Gesture Composer](https://apps.apple.com/us/app/gesture-composer/id6478170862) - Creating Custom Hand Gestures for VisionOS Apps
+
+I'm interested in Hardware Interfaces:
+
+- [Blender Hardware Interface](https://www.youtube.com/watch?v=FWCsz6pDwb4) Controlling Blender with a Custom Controller
+
 I'm playing with SourceKit to analyse Source Code
 
 - [Product Analysis](https://github.com/nthState/ProductAnalysis) Checking if code is implemented
