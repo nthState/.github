@@ -33,6 +33,12 @@ I also use `Metal`:
 - [Curved Shader](https://github.com/nthState/CurvedShader) similar to Animal Crossing Rendering
 - [GPU Video Effects](https://github.com/nthState/GPUVideoEffectsWithTVOS) Processing video frames on tvOS
 
+I also like CI/CD:
+
+- [Validate an Xcode Project is sorted](https://github.com/nthState/ValidateXcodeProjectSorted) GitHub Action to Validate Xcode project sorting
+- [Upload TestFlight Release Notes](https://github.com/nthState/UploadTestFlightReleaseNotes) GitHub Action to upload TestFlight Release Notes
+- [Inclusive Copyrighting](https://github.com/nthState/InclusiveCopywriting) GitHub Action to check for inclusive copy in certain file types
+
 Here's a collection of tools to help you debug in Xcode
 
 - [LLDBInit](https://github.com/nthState/lldbinit) - extensions for Xcode
