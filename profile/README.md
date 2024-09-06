@@ -26,6 +26,10 @@ I'm interested in Augmented Reality (AR):
 - [jARws](https://apps.apple.com/us/app/jarws/id352431301?ls=1) - AR Version of that scene from Back to the Future
 - [Gesture Composer](https://apps.apple.com/us/app/gesture-composer/id6478170862) - Creating Custom Hand Gestures for VisionOS Apps
 
+I'm interested in Accessibility
+
+- [InspectorA11y](https://github.com/nthState/InspectorA11y) - Proof of Concept for generating Accessibility Details of a SwiftUI View
+
 I'm interested in Hardware Interfaces:
 
 - [Blender Hardware Interface](https://www.youtube.com/watch?v=FWCsz6pDwb4) Controlling Blender with a Custom Controller
