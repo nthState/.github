@@ -38,7 +38,7 @@ I'm playing with SourceKit to analyse Source Code
 
 - [Product Analysis](https://github.com/nthState/ProductAnalysis) Checking if code is implemented
 
-I have a courses:
+I have a course:
 
 - [Photoshop with Javascript](https://github.com/nthState/PhotoshopWithJavascript) How to use Javascript inside of Photoshop
 
@@ -56,6 +56,10 @@ I also like CI/CD:
 Here's a collection of tools to help you debug in Xcode
 
 - [LLDBInit](https://github.com/nthState/lldbinit) - extensions for Xcode
+
+I like Audio
+
+- [Smagic for the Teenage Engineering OP-1](https://teenage.engineering/products/op-1/original/anniversary/made-on-op-1) I connected an iOS App to the OP-1 midi port, I ❤️ Teenage Engineering
 
 Videos
 
