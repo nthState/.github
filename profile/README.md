@@ -30,6 +30,12 @@ I'm interested in Accessibility
 
 - [InspectorA11y](https://github.com/nthState/InspectorA11y) - Proof of Concept for generating Accessibility Details of a SwiftUI View
 
+I've made games
+
+- [Trainwreck](https://www.youtube.com/watch?v=4xWZf5TzcCc) - A Unity game where the goal is to keep as many trains on the track at once
+- [Duel](https://www.youtube.com/watch?v=bD_XbD0Ma7E) - A tvOS game where you need to shoot the bad cowboy
+
+
 I'm interested in Hardware Interfaces:
 
 - [Blender Hardware Interface](https://www.youtube.com/watch?v=FWCsz6pDwb4) Controlling Blender with a Custom Controller
