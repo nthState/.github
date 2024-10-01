@@ -58,6 +58,7 @@ I also like CI/CD:
 - [Validate an Xcode Project is sorted](https://github.com/nthState/ValidateXcodeProjectSorted) GitHub Action to Validate Xcode project sorting
 - [Upload TestFlight Release Notes](https://github.com/nthState/UploadTestFlightReleaseNotes) GitHub Action to upload TestFlight Release Notes
 - [Inclusive Copyrighting](https://github.com/nthState/InclusiveCopywriting) GitHub Action to check for inclusive copy in certain file types
+- [Swift Acknowledgements](https://github.com/nthState/SwiftAcknowledgements) GitHub Action to generate a Plist of all LICENSE files in your used Swift Packages
 
 Here's a collection of tools to help you debug in Xcode
 
