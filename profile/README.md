@@ -59,6 +59,7 @@ I also like CI/CD:
 - [Upload TestFlight Release Notes](https://github.com/nthState/UploadTestFlightReleaseNotes) GitHub Action to upload TestFlight Release Notes
 - [Inclusive Copyrighting](https://github.com/nthState/InclusiveCopywriting) GitHub Action to check for inclusive copy in certain file types
 - [Swift Acknowledgements](https://github.com/nthState/SwiftAcknowledgements) GitHub Action to generate a Plist of all LICENSE files in your used Swift Packages
+- [TestFlight Build Size Chart Generator](https://github.com/nthState/TestFlightBuildSizeChart) GitHub Action to generate a chart of your TestFlight build sizes over time
 
 Here's a collection of tools to help you debug in Xcode
 
