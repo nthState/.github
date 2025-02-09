@@ -68,6 +68,7 @@ Here's a collection of tools to help you debug in Xcode
 I like Audio
 
 - [Smagic for the Teenage Engineering OP-1](https://teenage.engineering/products/op-1/original/anniversary/made-on-op-1) I connected an iOS App to the OP-1 midi port, I ❤️ Teenage Engineering
+- [Phonique](https://nthstate.medium.com/phonique-avaudioengine-936058e6bd9f) I made a macOS App to create and export AVAudioEngine graphs and accompanying source code.
 
 Videos
 
