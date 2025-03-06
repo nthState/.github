@@ -70,6 +70,10 @@ I like Audio
 - [Smagic for the Teenage Engineering OP-1](https://teenage.engineering/products/op-1/original/anniversary/made-on-op-1) I connected an iOS App to the OP-1 midi port, I ❤️ Teenage Engineering
 - [Phonique](https://nthstate.medium.com/phonique-avaudioengine-936058e6bd9f) I made a macOS App to create and export AVAudioEngine graphs and accompanying source code.
 
+I wish I had invented VIM
+
+- [Youtube](https://www.youtube.com/playlist?list=PLaGzjDg3sfWF9k8ENJ49hB5BpZIzvQsHx) A collection of VIM tips I made, automated the video creation
+
 Videos
 
 - [Youtube](https://www.youtube.com/channel/UCUe3_Lw8_B5e_Gse7a2KHdQ/videos) A collection of videos from projects
