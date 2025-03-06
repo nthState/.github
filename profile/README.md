@@ -81,4 +81,4 @@ Videos
 
 You can find more projects on [GitHub](https://github.com/nthState), and on my portfolio [www.chrisdavis.com](http://www.chrisdavis.com)
 
-If you want to get in contact, send me a message.
+If you want to get in contact, find me on [LinkedIn](https://www.linkedin.com/in/chrisdavis83), or send me a message.
