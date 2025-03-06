@@ -35,11 +35,11 @@ I've made games
 - [Trainwreck](https://www.youtube.com/watch?v=4xWZf5TzcCc) - A Unity game where the goal is to keep as many trains on the track at once
 - [Duel](https://www.youtube.com/watch?v=bD_XbD0Ma7E) - A tvOS game where you need to shoot the bad cowboy
 
-
 I'm interested in creating Hardware & Software:
 
 - [Blender Hardware Interface](https://www.youtube.com/watch?v=FWCsz6pDwb4) Controlling Blender with a Custom Controller
 - [CueBuddy](https://www.youtube.com/watch?v=lHoB_c8IrcE) CueBuddy a Digital Snooker Cue (Pool Cue) extension
+- [Laser Morse](https://github.com/nthState/LaserMorse) I'm fascinated by Verilog
 
 I'm playing with SourceKit to analyse Source Code
 
