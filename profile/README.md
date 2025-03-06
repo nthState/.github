@@ -36,9 +36,10 @@ I've made games
 - [Duel](https://www.youtube.com/watch?v=bD_XbD0Ma7E) - A tvOS game where you need to shoot the bad cowboy
 
 
-I'm interested in Hardware Interfaces:
+I'm interested in creating Hardware & Software:
 
 - [Blender Hardware Interface](https://www.youtube.com/watch?v=FWCsz6pDwb4) Controlling Blender with a Custom Controller
+- [CueBuddy](https://www.youtube.com/watch?v=lHoB_c8IrcE) CueBuddy a Digital Snooker Cue (Pool Cue) extension
 
 I'm playing with SourceKit to analyse Source Code
 
