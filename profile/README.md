@@ -72,7 +72,7 @@ I like Audio
 
 I wish I had invented VIM
 
-- [Youtube](https://www.youtube.com/playlist?list=PLaGzjDg3sfWF9k8ENJ49hB5BpZIzvQsHx) A collection of VIM tips I made, automated the video creation
+- [VIM Tips](https://www.youtube.com/playlist?list=PLaGzjDg3sfWF9k8ENJ49hB5BpZIzvQsHx) A collection of VIM tips I made, automated the video creation
 
 Videos
 
