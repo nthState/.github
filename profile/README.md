@@ -4,8 +4,8 @@ Hello, I'm Chris, I'm the founder of nthState.
 
 Popular Projects:
 
-- I made [Haptrix](https://github.com/nthState/Haptrix) A macOS tool to let you visually design Haptics for iOS, see [www.haptrix.com](https://www.haptrix.com)
-- I made [GestureKit](https://github.com/nthstate/gesturekit) a VisionOS App to let you create custom hand gestures for the Vision Pro, see [www.gesturecomposer.com](https://www.gesturecomposer.com)
+- I made [Haptrix](https://github.com/nthState/Haptrix) A [macOS tool](https://apps.apple.com/us/app/haptrix/id887185157?mt=12) to let you visually design Haptics for iOS, see [www.haptrix.com](https://www.haptrix.com)
+- I made [GestureKit](https://github.com/nthstate/gesturekit) a VisionOS App to let you create custom hand gestures for the [Vision Pro](https://apps.apple.com/us/app/gesture-composer/id6478170862), see [www.gesturecomposer.com](https://www.gesturecomposer.com)
 
 I make a collection of modifiers for SwiftUI:
 
