@@ -7,7 +7,7 @@ Popular Projects:
 - I made [Haptrix](https://github.com/nthState/Haptrix) A [macOS tool](https://apps.apple.com/us/app/haptrix/id887185157?mt=12) to let you visually design Haptics for iOS, see [www.haptrix.com](https://www.haptrix.com)
 - I made [GestureKit](https://github.com/nthstate/gesturekit) a VisionOS App to let you create custom hand gestures for the [Vision Pro](https://apps.apple.com/us/app/gesture-composer/id6478170862), see [www.gesturecomposer.com](https://www.gesturecomposer.com)
 
-I make a collection of modifiers for SwiftUI:
+I've made a collection of modifiers for SwiftUI:
 
 - [Stroke Extensions](https://github.com/nthState/StrokeExtensions) When you want to put elements on a Path of any Shape
 - [Curtain Raiser](https://github.com/nthState/CurtainRaiser) A Shader effect for animating a view
@@ -22,9 +22,9 @@ I make a collection of modifiers for SwiftUI:
 
 I'm interested in Augmented Reality (AR):
 
-- [Climb Designer](https://www.youtube.com/watch?v=tRRNfKj1rfU) - Route Setting in AR
+- [Climb Designer](https://www.youtube.com/watch?v=tRRNfKj1rfU) - Bouldering Route Setting in AR (ARKit)
 - [jARws](https://apps.apple.com/us/app/jarws/id352431301?ls=1) - AR Version of that scene from Back to the Future
-- [Gesture Composer](https://apps.apple.com/us/app/gesture-composer/id6478170862) - Creating Custom Hand Gestures for VisionOS Apps
+- [Gesture Composer](https://apps.apple.com/us/app/gesture-composer/id6478170862) - Creating Custom Hand Gestures for VisionOS Apps (ARKit, RealityKit)
 
 I'm interested in Accessibility
 
@@ -33,7 +33,7 @@ I'm interested in Accessibility
 I've made games
 
 - [Trainwreck](https://www.youtube.com/watch?v=4xWZf5TzcCc) - A Unity game where the goal is to keep as many trains on the track at once
-- [Duel](https://www.youtube.com/watch?v=bD_XbD0Ma7E) - A tvOS game where you need to shoot the bad cowboy
+- [Duel](https://www.youtube.com/watch?v=bD_XbD0Ma7E) - A SpriteKit tvOS game where you need to shoot the bad cowboy
 
 I'm interested in creating Hardware & Software:
 
