@@ -66,6 +66,10 @@ Here's a collection of tools to help you debug in Xcode
 
 - [LLDBInit](https://github.com/nthState/lldbinit) - extensions for Xcode
 
+I like procedural generation
+
+- [Vector Flow](http://vectorflow.io/) A procedural vector graphic tool for macOS
+
 I like Audio
 
 - [Smagic for the Teenage Engineering OP-1](https://teenage.engineering/products/op-1/original/anniversary/made-on-op-1) I connected an iOS App to the OP-1 midi port, I ❤️ Teenage Engineering
