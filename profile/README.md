@@ -53,6 +53,7 @@ I also use `Metal`:
 
 - [Curved Shader](https://github.com/nthState/CurvedShader) similar to Animal Crossing Rendering
 - [GPU Video Effects](https://github.com/nthState/GPUVideoEffectsWithTVOS) Processing video frames on tvOS
+- I wrote the original Camera effect for the Lapse Camera App
 
 I also like CI/CD:
 
