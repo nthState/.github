@@ -69,7 +69,7 @@ Here's a collection of tools to help you debug in Xcode
 
 I like procedural generation
 
-- [Vector Flow](http://vectorflow.io/) A procedural vector graphic tool for macOS
+- [Vector Flow](http://vectorflow.io/) A procedural vector graphic tool for macOS/iPadOS written in SwiftUI
 
 I like Audio
 
