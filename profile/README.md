@@ -25,6 +25,7 @@ I'm interested in Augmented Reality (AR):
 - [Climb Designer](https://www.youtube.com/watch?v=tRRNfKj1rfU) - Bouldering Route Setting in AR (ARKit)
 - [jARws](https://apps.apple.com/us/app/jarws/id352431301?ls=1) - AR Version of that scene from Back to the Future
 - [Gesture Composer](https://apps.apple.com/us/app/gesture-composer/id6478170862) - Creating Custom Hand Gestures for VisionOS Apps (ARKit, RealityKit)
+- [RobotKit](https://github.com/nthstate/robotkit) - Augmented Reality Testing Framework that controls a Robot (ARKit)
 
 I'm interested in Accessibility
 
@@ -87,3 +88,7 @@ Videos
 You can find more projects on [GitHub](https://github.com/nthState), and on my portfolio [www.chrisdavis.com](http://www.chrisdavis.com)
 
 If you want to get in contact, find me on [LinkedIn](https://www.linkedin.com/in/chrisdavis83), or send me a message.
+
+<img height="180em" alt="GitHub stats" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nthState-Chris&show_icons=true&include_all_commits=true&count_private=true"/>
+<img height="180em" alt="Top languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nthState-Chris&layout=compact&langs_count=8"/>
+<img alt="LeetCode Stats" src="https://leetcard.jacoblin.cool/QuantumDoja?font=Noto%20Sans%20Mro"/>
