@@ -29,7 +29,7 @@ I'm interested in Augmented Reality (AR):
 
 I'm interested in Accessibility
 
-- [InspectorA11y](https://github.com/nthState/InspectorA11y) - Proof of Concept for generating Accessibility Details of a SwiftUI View
+- [DesignReviewToolkit](https://github.com/nthState/DesignReviewToolkit) - Extract Accessibility and Style information and present as an image from SwiftUI views
 
 I've made games
 
