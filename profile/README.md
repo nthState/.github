@@ -2,10 +2,20 @@
 
 Hello, I'm Chris, I'm the founder of nthState.
 
+I'm a software engineer working mostly in augmented reality and AI — ARKit, RealityKit and Metal on iOS and visionOS, and a lot of Rust lately. Nearly everything I've worked on since 2001 is written up on my portfolio at [www.chrisdavis.com](https://www.chrisdavis.com), along with a [CV](https://www.chrisdavis.com/cv.html).
+
+I've started looking at what's next, contract or permanent — say hello on [LinkedIn](https://www.linkedin.com/in/chrisdavis83).
+
+Recently:
+
+- I made [PonyTales](https://www.chrisdavis.com/articles/ponytales.html) a 3D world for children that runs in a browser and as a native iOS App — Three.js on web, RealityKit and Metal on iOS, over one shared game core written in Rust, see [www.ponytales.com](https://www.ponytales.com)
+- I made [Jailercise](https://www.chrisdavis.com/articles/jailercise.html) a set of AI-generated jailbirds who coach you through a workout, built on a generative pipeline that takes a character bible through to finished reels, see [jailercise.com](https://jailercise.com)
+- I wrote [Rearranging Radio](https://www.chrisdavis.com/articles/rearranging_radio.html) a step-by-step formula guide for the UK amateur radio Foundation, Intermediate and Full Licence exams
+
 Popular Projects:
 
 - I made [Haptrix](https://github.com/nthState/Haptrix) A [macOS tool](https://apps.apple.com/us/app/haptrix/id887185157?mt=12) to let you visually design Haptics for iOS, see [www.haptrix.com](https://www.haptrix.com)
-- I made [GestureKit](https://github.com/nthstate/gesturekit) a VisionOS App to let you create custom hand gestures for the [Vision Pro](https://apps.apple.com/us/app/gesture-composer/id6478170862), see [www.gesturecomposer.com](https://www.gesturecomposer.com)
+- I made [GestureKit](https://github.com/nthstate/gesturekit) the framework behind [Gesture Composer](https://apps.apple.com/us/app/gesture-composer/id6478170862), a visionOS App to let you create custom hand gestures for the Vision Pro, see [www.gesturecomposer.com](https://www.gesturecomposer.com)
 
 I've made a collection of modifiers for SwiftUI:
 
@@ -22,9 +32,9 @@ I've made a collection of modifiers for SwiftUI:
 
 I'm interested in Augmented Reality (AR):
 
-- [Climb Designer](https://www.youtube.com/watch?v=tRRNfKj1rfU) - Bouldering Route Setting in AR (ARKit)
-- [jARws](https://apps.apple.com/us/app/jarws/id352431301?ls=1) - AR Version of that scene from Back to the Future
-- [Gesture Composer](https://apps.apple.com/us/app/gesture-composer/id6478170862) - Creating Custom Hand Gestures for VisionOS Apps (ARKit, RealityKit)
+- [Climb Designer](https://www.youtube.com/watch?v=tRRNfKj1rfU) - Bouldering Route Setting in AR (ARKit), [write-up](https://www.chrisdavis.com/articles/climb_designer.html)
+- [jARws](https://apps.apple.com/us/app/jarws/id352431301?ls=1) - AR Version of that scene from Back to the Future, [write-up](https://www.chrisdavis.com/articles/jarws.html)
+- [Gesture Composer](https://apps.apple.com/us/app/gesture-composer/id6478170862) - Creating Custom Hand Gestures for visionOS Apps (ARKit, RealityKit), [write-up](https://www.chrisdavis.com/articles/gesture_composer.html)
 - [RobotKit](https://github.com/nthstate/robotkit) - Augmented Reality Testing Framework that controls a Robot (ARKit)
 
 I'm interested in Accessibility
@@ -85,6 +95,6 @@ Videos
 
 - [Youtube](https://www.youtube.com/channel/UCUe3_Lw8_B5e_Gse7a2KHdQ/videos) A collection of videos from projects
 
-You can find more projects on [GitHub](https://github.com/nthState), and on my portfolio [www.chrisdavis.com](http://www.chrisdavis.com)
+You can find more projects on [GitHub](https://github.com/nthState), and the full write-ups on my portfolio at [www.chrisdavis.com](https://www.chrisdavis.com).
 
 If you want to get in contact, find me on [LinkedIn](https://www.linkedin.com/in/chrisdavis83), or send me a message.
